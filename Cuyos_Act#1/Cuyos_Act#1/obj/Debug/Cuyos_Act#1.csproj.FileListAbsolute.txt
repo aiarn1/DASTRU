@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\bin\Debug\Cuyos_Act#1.exe.config
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\bin\Debug\Cuyos_Act#1.exe
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\bin\Debug\Cuyos_Act#1.pdb
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\obj\Debug\Cuyos_Act#1.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\obj\Debug\Cuyos_Act#1.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\obj\Debug\Cuyos_Act#1.exe
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\obj\Debug\Cuyos_Act#1.pdb
+C:\Users\ACT-STUDENT\Documents\Act. 1\Cuyos_Act#1\Cuyos_Act#1\obj\Debug\Cuyos_Act#1.exe.config
