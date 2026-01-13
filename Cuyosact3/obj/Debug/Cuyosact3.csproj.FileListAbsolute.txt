@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\bin\Debug\Cuyosact3.exe.config
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\bin\Debug\Cuyosact3.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\bin\Debug\Cuyosact3.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\obj\Debug\Cuyosact3.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\obj\Debug\Cuyosact3.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\obj\Debug\Cuyosact3.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\obj\Debug\Cuyosact3.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyosact3\obj\Debug\Cuyosact3.exe.config
